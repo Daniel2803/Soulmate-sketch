@@ -1,0 +1,101 @@
+body{
+  padding:1% 14% 7% 14% ;
+}
+a{
+  color:black;
+}
+.logo{
+  width:200px;
+}
+.top-container{
+  color: white;
+  background-image: url('vid_bg.jpg');
+  text-align: center;
+  padding:1% 14% 7% 14% ;
+  background-repeat: no-repeat;
+}
+.top-h2{
+  width: 79%;
+  padding: 1% 0 1% 25%;
+  color:black;
+  font-weight: bold;
+}
+
+.drawing img{
+    width: 520px;
+    margin-left: 3%;
+}
+
+.footer{
+  font-size: 13px;
+  text-align: center;
+  padding: 0 27%;
+}
+
+hr{
+  width:75%;
+  color: grey;
+  height: 2px;
+}
+.footer-link1 p{
+  display: inline-block;
+  padding:1%;
+   height:20px;
+}
+.footer-link2 p{
+  display: inline-block;
+  padding:1%;
+}
+.footer-link1 a{
+color:black;
+}
+.footer-link2 a{
+color:black;
+}
+.copy{
+  margin-bottom: 3%;
+  font-size: 11px;
+}
+.links{
+  text-align: center;
+}
+
+.top-h2{
+  font-size: 2rem;
+}
+.top-btn{
+  color:white;
+  background-color: rgb(228, 59, 44);
+   font-size: 21px;
+   padding: 14px 60px;
+   border:none;
+}
+.top-btn2{
+  color:white;
+  background-color: rgb(228, 59, 44);
+   font-size: 21px;
+   padding: 14px 32%;
+   border:none;
+}
+.mid-container{
+  padding-left: 2%;
+  margin-top: 6%;
+}
+.mid-container p{
+    font-size: 14px;
+}
+.mid-container h4{
+    font-size: 20px;
+}
+.mid-container h3{
+  text-align: center;
+  margin-bottom: 3%;
+}
+.mid-bottom-p{
+  margin-top: 5%;
+}
+.read{
+  padding: 2% 0;
+color: #0284fe;
+font-weight: bold;
+}
